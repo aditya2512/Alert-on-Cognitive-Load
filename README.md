@@ -1,4 +1,3 @@
-```markdown
 # EmotiBit Cognitive Load Prediction System
 
 ## Overview
@@ -18,7 +17,7 @@ This system collects physiological data from an EmotiBit device via OSC, process
 - Required packages:
   ```bash
   pip install python-osc scikit-learn scipy numpy joblib
-  ```
+  
 
 ## Setup
 1. Create these directories:
