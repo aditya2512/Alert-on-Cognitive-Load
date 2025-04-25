@@ -62,6 +62,3 @@ ALERT|COGNITIVE_LOAD_LEVEL
 - **OSC connection issues**: Check EmotiBit is sending to correct IP:port
 - **Prediction errors**: Ensure all three features (EDA, Temp, BVA) are available
 
-## License
-MIT License
-```
