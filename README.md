@@ -1,5 +1,3 @@
-
-
 ```markdown
 # EmotiBit Cognitive Load Prediction System
 
